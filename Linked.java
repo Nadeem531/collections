@@ -10,7 +10,7 @@ class Linked {
 
 		
 		LinkedList<Integer> ll = new LinkedList<Integer>();		
-		for (int i = 4; i <= 5; i++)
+		for (int i = 2; i <= 5; i++)
 		     ll.add(i);
 		System.out.println(ll);
 		ll.remove(3);		
